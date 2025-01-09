@@ -1,6 +1,6 @@
 # Web Developers Salaries Dashboard
 
-![Web Developers Salaries Dashboard](./Web_Developers_Dashboard.png)
+![Web Developers Dashboard.png](https://github.com/Sameh20200218AI/Web_Developers_Salaries_Dashboard_Using_PowerBI/blob/main/Web%20Developers%20Dashboard.png)
 
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of web developers' salaries across different metrics, offering insights into salary distribution, work types, years of experience, job titles, and company details. 
